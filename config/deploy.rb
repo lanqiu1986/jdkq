@@ -1,8 +1,8 @@
 # config valid only for current version of Capistrano
 lock "3.8.1"
 
-set :application, "jdkq"
-set :repo_url, "git@example.com:lanqiu1986/jdkq.git"
+set :application, 'jdkq'
+set :repo_url, 'git@github.com:lanqiu1986/jdkq.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
